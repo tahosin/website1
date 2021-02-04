@@ -5,16 +5,57 @@ b{
     color: orange;
 }
 .top-div{
-    width: 41%;
+    width: 42%;
     float: left;
     margin-left: 4%;
     padding-left: 2%;
+         
 }
 .top-div img {
-    width: 100%;
+    width: 50%;
+    
 }
 .button1{
-    background-image: linear-gradient(45deg, lightsalmon, orange);
+    background-image: linear-gradient(45deg, lightsalmon,tomato);
     padding: 10px 20px;
     border-radius: 5px;
+    text-decoration: none;
+} 
+.background1{
+    
+    background-image: url("photos/top-banner.png");
+    background-repeat: no-repeat;
+    
+}
+section{
+    height: 500px;
+}
+.dream-big {
+    background-image: url("photos/dream-bg.png");
+    background-repeat: no-repeat;
+}
+
+.expriene-area{
+    box-shadow: 10px 10px 40px gray ;
+    height: 80%;
+    border-radius: 10px;
+}
+.final-section{
+    background-image: url("photos/exp-bg.png");
+    background-repeat: no-repeat;
+    background-position: left;
+}
+#full-stack {
+    background-image: linear-gradient(180deg, lightsalmon tomato);
+    border-left: 7px solid;
+    border-image-slice: 1;
+    background-color: white;
+}
+#baby-web{
+    background-image: linear-gradient(180deg, blue cyan);
+    border-left: 7px solid ;
+    border-image-slice: 1;
+}
+footer p{
+    text-align: center;
 }
