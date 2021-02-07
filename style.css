@@ -33,6 +33,8 @@ section{
 .dream-big {
     background-image: url("photos/dream-bg.png");
     background-repeat: no-repeat;
+    background-position: right;
+    margin-top: 85px;
 }
 
 .expriene-area{
@@ -58,4 +60,12 @@ section{
 }
 footer p{
     text-align: center;
+}
+
+.left-side {
+    margin-top: 75px;
+}
+
+.right-side {
+    margin-left: 10px;
 }
